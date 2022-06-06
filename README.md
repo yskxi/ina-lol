@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&theme=github_dark&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ina-lol&show_icons=true&theme=github_dark&cache_seconds=2300">
 
 ### Olá, tudo bem?
 
