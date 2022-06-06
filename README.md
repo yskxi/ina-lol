@@ -8,7 +8,7 @@
 
 Meu SO: **Arch Linux<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=20 width=20/>**<br/>
   
-Linguagens: **Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height=20 width=20/>, ruby<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=20 width=20/>**.
+Linguagens: **Ruby<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height=20 width=20/>, python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=20 width=20/>**.
 
 
 </p>
